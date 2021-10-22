@@ -27,5 +27,4 @@ function getGitHubProfileInfos(){
     userLogin.textContent = data.login
   })
 }
-changeSocialMediaLinks()
 getGitHubProfileInfos()
